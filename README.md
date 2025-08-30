@@ -1,4 +1,4 @@
-# 🔐 Advanced Personalized Wordlist Generator
+# 🔐 Wordlist Generator
 
 A Python tool to generate **custom password wordlists** based on personal details.  
 Useful for ethical hacking, cybersecurity students, and penetration testing.  
@@ -25,5 +25,7 @@ No external libraries needed.
 Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/<your-username>/Wordlist-Generator.git
-   cd 
+   git clone https://github.com/cybernananban00/wordlist.git
+   cd wordlist
+   python wordlist.py
+
